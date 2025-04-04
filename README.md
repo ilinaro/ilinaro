@@ -1,6 +1,7 @@
 # 👨‍💻 ILIN OLEG | Frontend-виртуоз, создающий цифровую магию с 2021 года ✨
 
-<img src="/api/placeholder/1200/300" alt="Frontend Developer Banner" />
+![Header]([https://capsule-render.vercel.app/api?](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Oleg%20Ilin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descAlign=62))
+
 
 ## ⚡ Технологический арсенал
 
@@ -118,10 +119,6 @@ WebGL       [█████████████▒▒▒▒▒▒▒▒▒�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilinaro)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilinaro&label=Посетители+профиля&color=blueviolet&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>❝Код — мой холст, а React — моя кисть❞</i>
