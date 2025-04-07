@@ -1,3 +1,7 @@
+# 👨‍💻 ILIN OLEG | Frontend-виртуоз, создающий цифровую магию с 2021 года ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Oleg%20Ilin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descAlign=62)" alt="Frontend Developer Banner" />
+
 ## ⚡ Технологический арсенал
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
