@@ -109,4 +109,17 @@ MongoDB      [█████████████▒▒▒▒▒▒▒▒▒
 WebGL        [█████████████▒▒▒▒▒▒▒▒▒▒▒] 50%  // "3D-визуализация - моё хобби"
 ```
 
-> *"Я не просто пишу код — я создаю пайплайны, которые доставляют продукт пользователям"*
+> *"Я не программирую код — я создаю цифровые впечатления"*
+
+
+## 📫 Связаться со мной
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilinaro)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilindev78@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilinaro)
+
+---
+
+<p align="center">
+  <i>❝Код — мой холст, а React — моя кисть❞</i>
+</p>
