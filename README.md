@@ -1,4 +1,3 @@
-# 👨‍💻 ILIN OLEG | Frontend-виртуоз, создающий цифровую магию с 2021 года 
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
